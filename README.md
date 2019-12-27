@@ -1,4 +1,4 @@
-# espuino-rollup-babel
+# espruino-rollup-babel
 
 Template for espruino to build project with rollup and babel. You can use async/await, rest/spread operator, 'import from module', and other.
 
